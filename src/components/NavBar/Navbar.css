@@ -1,0 +1,47 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    height: 10vh;
+}
+.search{
+    display: flex;
+    align-self: center;
+    justify-content: space-between;
+    width: 30%;
+    height: fit-content;
+}
+.info{
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+}
+.info img {
+    margin: 2px;
+   padding: 10px;
+    
+}
+.notification {
+
+box-shadow: 0 0 0 1px rgba(0,0,0,.1),0 1px 3px rgba(0,0,0,.2);
+border-radius: 5px;
+background-color: #fff;
+display: flex;
+align-items: center;
+
+}
+.notification p {
+   padding: 5px;
+    
+}
+.settings {
+  
+    box-shadow: 0 0 0 1px rgba(0,0,0,.1),0 1px 3px rgba(0,0,0,.2);
+    border-radius: 5px;
+    background-color: #fff;
+    }
+    .avatar {
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        
+      }

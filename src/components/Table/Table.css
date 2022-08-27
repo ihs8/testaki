@@ -1,0 +1,21 @@
+.App {
+
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+  }
+    
+  table {
+    padding-left: 10%;
+    width: 600px;
+    height: 200px;
+  }
+    
+  th {
+    border-bottom: 1px solid black;
+  }
+    
+  td {
+    text-align: center;
+    border-bottom: 1px solid rgb(142, 142, 142);
+  }

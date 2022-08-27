@@ -1,0 +1,23 @@
+.icons {
+    display: flex;
+    flex-direction: column;
+}
+#i{
+    padding-left: 30px;
+}
+button {
+    background-color: #7755ff;
+    border: none;
+    width: 60%;
+    color: white;
+    align-self: center;
+    margin: 1px;
+    padding: 10px;
+    border-radius: 10%;
+    font-size: 20px;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
+}
+button:hover {
+    background-color: #0abde3;
+    color: white;
+}

@@ -1,0 +1,15 @@
+.icon {
+    display: flex;
+height: max-content;
+}
+.icon img {
+    width: 10%;
+    align-self: left;
+    margin: 1px;
+    padding: 10px;}
+.icon p{
+    align-self: center;
+    margin: 1px;
+    padding: 10px;
+    color: black;
+}
